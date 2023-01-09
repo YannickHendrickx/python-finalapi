@@ -1,0 +1,2 @@
+# Demo data for application
+This SQLite database is for demo purposes. It creates an initial coach user `demo:demo`. It is adviced to change the password and/or create a new coach before deleting the demo account

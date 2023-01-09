@@ -1,0 +1,7 @@
+fastapi==0.85.0
+pydantic==1.10.2
+uvicorn==0.18.3
+sqlalchemy==1.4.44
+passlib[bcrypt, argon2]
+python-jose[cryptography]
+python-multipart==0.0.5
